@@ -1,20 +1,21 @@
-# СИЧ — система визначення вогневих позицій супротивника
+# SYCH — threat detection audio system
 
-## Оновлення 20.12.2022
+We are a small group of volunteers passionate about technology, who aim to help Ukrainians defend against unmanned aerial vehicles (drones). These threats have become increasingly destructive since the start of Russian aggression. To address this issue, we are developing a device that can detect and locate these vehicles using their significant audio footprint.
 
-* аналіз аудіо даних дронів-шахедів
-* підготовка стенду для збору даних
+## Update 27.02.2023
 
-## Питання
+* developing custom PCB on STM32
 
-### Для чого цей проект?
+<img src="https://user-images.githubusercontent.com/1492531/221622142-9ca69ba2-7d5d-4b00-ba25-ff9fc4ffabad.png" width="200"/>
 
-СИЧ — волонтерський проект який спрямований на допомогу армії.
+## Update 10.01.2023
 
-### Яка ціль проекту?
+* recording audio samples with 4 channels audio (raspberry pi + respeaker)
+* analyzing a different techniques 
 
-Розробка пристрою який виявляє цілі, що представляють загрозу за допомогою аналізу їх аудіо сигналу.
+<img src="https://user-images.githubusercontent.com/1492531/221619588-ce5d3f61-e624-4996-b44f-482a2ddd0abb.jpeg" width="200"/>
 
+## Update 20.12.2022
 
-
-
+* analyzing of audio data of shahed-drones sample
+* preparing of the device to gather multi-channel audio data
