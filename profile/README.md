@@ -1,4 +1,4 @@
-# SYCH — threat detection audio system
+# SYCH — threat detection audio system (non-profit, volunteer)
 
 We are a small group of volunteers passionate about technology, who aim to help Ukrainians defend against unmanned aerial vehicles (drones). These threats have become increasingly destructive since the start of Russian aggression. To address this issue, we are developing a device that can detect and locate these vehicles using their significant audio footprint.
 
