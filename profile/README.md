@@ -11,7 +11,7 @@ We are a small group of volunteers passionate about technology, who aim to help 
 ## Update 10.01.2023
 
 * recording audio samples with 4 channels audio (raspberry pi + respeaker)
-* analyzing a different techniques 
+* analyzing a different techniques to localize audio source
 
 <img src="https://user-images.githubusercontent.com/1492531/221619588-ce5d3f61-e624-4996-b44f-482a2ddd0abb.jpeg" width="200"/>
 
