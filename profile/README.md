@@ -2,6 +2,13 @@
 
 We are a small group of volunteers passionate about technology, who aim to help Ukrainians defend against unmanned aerial vehicles (drones). These threats have become increasingly destructive since the start of Russian aggression. To address this issue, we are developing a device that can detect and locate these vehicles using their significant audio footprint.
 
+## Update 21.06.2023
+
+* developed waterproof/windproof device to record audio samples
+
+<img src="https://github.com/Sych-Tech/.github/assets/1492531/91ae1495-5cc8-4515-a9c1-4f443b83ff54" width="200"/>
+<img src="https://github.com/Sych-Tech/.github/assets/1492531/3c2e8889-6bcd-4002-9372-beb8261bc448" width="320"/>
+
 ## Update 27.02.2023
 
 * developing custom PCB on STM32
